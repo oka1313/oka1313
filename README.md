@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dami%20Github&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dami%20Github&fontSize=70&customColorList=0,2,2,5,30)"/>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat&logo=styledcomponents&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" /></a>&nbsp
 
@@ -35,7 +36,9 @@
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></a>&nbsp
 </div>
 
-<br><br>
+<br>
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oka1313&layout=compact"><br><br>
