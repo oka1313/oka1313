@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 </div>
 
