@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=black" /></a>&nbsp
 </div>
 
