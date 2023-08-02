@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/4bde2659-5f72-4f17-8475-fc9f2e6851f2" />
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/00c1e934-d0e6-4980-8009-751917751816" />
 </div>
-
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
