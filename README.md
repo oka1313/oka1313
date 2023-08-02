@@ -59,11 +59,14 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+  <a href="mailto:oka1313@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+  </a>
 </div>
 
+<br>
 <br>
 <br>
 <br>
