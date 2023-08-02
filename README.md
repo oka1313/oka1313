@@ -40,6 +40,7 @@
 <br>
 <br>
 
+<!--깃허브 README에서 stat 표시하기-->
 <div align="center">
   <a href="https://github.com/oka1313/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=oka1313&show_icons=true&theme=dracula" />
