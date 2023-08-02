@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Dami's%20GitHub&fontSize=50&customColorList=0,2,2,5,30)"/>
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/4bde2659-5f72-4f17-8475-fc9f2e6851f2" />
+</div>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -74,9 +77,9 @@
 <!--깃허브 README에서 stat 표시하기-->
 <div align="center">
   <a href="https://github.com/oka1313/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=oka1313&show_icons=true&theme=dracula" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=oka1313&show_icons=true&theme=tokyonight" />
   </a>&nbsp
   <a href="https://github.com/oka1313/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oka1313&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oka1313&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </div>
