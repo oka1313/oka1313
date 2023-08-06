@@ -65,15 +65,10 @@
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      onclick="copyToClipboard('oka1313@gmail.com')"
-    />&nbsp
+      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
-<br>
-<br>
-<br>
 <br>
 
 <!--깃허브 README에서 stat 표시하기-->
